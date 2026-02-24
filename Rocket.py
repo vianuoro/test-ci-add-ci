@@ -119,3 +119,4 @@ class Rocket:
 if __name__ == '__main__':
     r = Rocket()
     r.game_start()
+    print("slut")
