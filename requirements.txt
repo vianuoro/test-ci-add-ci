@@ -1,0 +1,5 @@
+# project dependencies
+pygame
+
+# development/test dependencies
+pytest
